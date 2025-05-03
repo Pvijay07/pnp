@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-30 05:58:27 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 05:58:27 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 05:58:27 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 05:58:27 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:11:48 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:11:48 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:11:48 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:11:48 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:18:51 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:18:51 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:18:51 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:18:51 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:30:06 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:30:06 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:30:06 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 06:30:06 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:27:10 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:27:10 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:27:10 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:27:10 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:27:21 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:27:21 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:27:21 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:27:21 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:28:23 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:28:23 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:28:23 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 09:28:23 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 12:27:10 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 12:27:10 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 12:27:10 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
+ERROR - 2023-01-30 12:27:10 --> Severity: Warning --> Undefined property: stdClass::$name /home/cmschamps/public_html/pnp-app/application/controllers/api/Home.php 44
